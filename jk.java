@@ -1,3 +1,6 @@
 ijagaa
 
-Testig file updating in 
+Testig file updating in
+
+
+Git commands are very imp
