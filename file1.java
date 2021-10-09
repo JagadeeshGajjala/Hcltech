@@ -1,4 +1,2 @@
-This is my java program
+This is my first java prog
 Welcome
-New line added in mater
-
